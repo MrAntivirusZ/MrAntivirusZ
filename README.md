@@ -9,16 +9,16 @@
   <a href="mailto:jeremygoku2017@gmail.com"><img src="https://img.shields.io/badge/Email-jeremygoku2017%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Guayaquil%2C%20Ecuador-555?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=flat-square"/>
-  <a href="https://www.linkedin.com/in/____"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeramy-joshue-aragundi-fern%C3%A1ndez-381114325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 ### About
 
-Software developer with 1 year of experience building enterprise solutions for the telecom industry (Claro Ecuador), taking features all the way from the technical spec to production. I work with **Oracle PL/SQL**, **Java/JSP on WebLogic** and **REST/SOAP integrations** with microservices, gateways and Kafka — and on the side I build full stack apps with **React, Django, Angular and .NET**.
+Software developer with hands-on experience building enterprise solutions for the telecom industry (Claro Ecuador), taking features all the way from the technical spec to production. I work with **Oracle PL/SQL**, **Java/JSP on WebLogic** and **REST/SOAP integrations** with microservices, gateways and Kafka — and on the side I build full stack apps with **React, Django, Angular and .NET**.
 
-I like the hard part: legacy systems with no docs, silent failures, and bugs that only show up in production. Software Engineering student at Universidad de Guayaquil.
+I like the hard part: legacy systems with no docs, silent failures, and bugs that only show up in production. Software Engineering student (8th semester) at Universidad de Guayaquil.
 
 ---
 
